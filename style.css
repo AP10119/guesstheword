@@ -1,0 +1,48 @@
+.body-background{
+    background-position: center;
+    background-size: cover;
+	text-align: center;
+}
+#div1{
+	background-color: rgb(98, 237, 255);
+	border-radius: 20px;
+	float: none;
+	padding: 10px;
+	
+}
+#div2{
+	background-color: rgb(98, 255, 255);
+	border-radius: 20px;
+	float: none;
+	padding: 10px;
+
+}
+h2
+{
+	border-radius: 10px;
+	width: 200px;
+	padding: 5px;
+ }
+h3
+{
+	display: inline-block;
+}
+#input1{
+	display: inline-blocks;
+	width: 300px;
+}
+#input2{
+	display: inline-blocks;
+	width: 300px;
+}
+
+.img123{
+	width: 300px;
+	height: 400px;
+}
+body{
+	background-image: url("https://cdn.trendhunterstatic.com/thumbs/cool-backgrounds.jpeg");
+}
+title{
+	color:white;
+}
